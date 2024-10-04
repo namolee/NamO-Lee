@@ -5,3 +5,14 @@
 
 ### Data Analyst, also interested in AI.
 안녕하세요, _______________________________ 이남오입니다!
+
+### SKILLS
+**Langs and Frameworks**
+<br>  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)![JAVA](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=Openjdk&logoColor=white)  
+
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namolee&layout=compact)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namolee&show_icons=true&theme=radical)
